@@ -2,9 +2,9 @@
 
 # PrestaShop 1.6.x Card Payment setup instructions
 
-1. Download our latest PrestaShop 1.6.x Card Payment module [here](https://github.com/hipspay/prestashop-payment-gateway-module/releases).
+1. Download our latest PrestaShop 1.6.x Card Payment module [here](https://github.com/hipspay/prestashop-1.6.x-payment-gateway-module/releases).
 2. Login to admin and go to Modules and Services.
-3. Press the Add a new module in the top right corner and upload [HIPS.PS.x.x.x.Card.zip](https://github.com/hipspay/prestashop-payment-gateway-module/releases). 
+3. Press the Add a new module in the top right corner and upload [HIPS.PS.x.x.x.Card.zip](https://github.com/hipspay/prestashop-1.6.x-payment-gateway-module/releases). 
 4. Go to Modules and Services → Modules and Services → Payments and Gateways.  
 5. Install Hips Payment.
 6. Press the Configure button.
